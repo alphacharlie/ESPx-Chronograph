@@ -1,0 +1,1 @@
+This is the Arduino Source code for a basic DIY ballistic chronograph. For details see the project here - https://hackaday.io/project/9378-diy-ballistic-chronograph
